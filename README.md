@@ -1,10 +1,6 @@
 # OCW-Certificates
-This repository contains all my Online Courseware Certificates.
+This repository contains all my Online Courseware Certificates.<br>
 Total Course Certificates = 
-Certificates from:
-<ul>Coursera</ul>
-<ul>LinkedIn Learning</ul>
-<ul>NPTEL</ul>
 
   
   
